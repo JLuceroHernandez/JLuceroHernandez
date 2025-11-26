@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @JLuceroHernandez
-- 👀 I’m interested in programming and app development...
+- 👀 I’m interested in
+/mantenimiento-preventivo  
+/seguridad-e-higiene  
+/proteccion-civil  
+/normativa  
+/checklists  
+/scripts  
+/kpis  
 - 🌱 I’m currently learning java script...
 - 💞️ I’m looking to collaborate on Condominium administrators and maintenance administrators...
 - 📫 How to reach me +525534239269...
